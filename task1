@@ -1,3 +1,5 @@
+let start = 1;
+let count = 100;
 for (let i = start; i < start + count; i++)
             {
                 let isFizz = i%3 ==0;
